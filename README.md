@@ -37,4 +37,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
