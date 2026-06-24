@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Simulation
