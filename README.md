@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
