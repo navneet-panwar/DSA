@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
+| [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
