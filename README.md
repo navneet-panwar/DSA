@@ -49,4 +49,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
