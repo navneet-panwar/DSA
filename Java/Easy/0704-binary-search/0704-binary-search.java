@@ -7,8 +7,8 @@ class Solution {
         // if array is not sorted, we cannot eliminate half of it confidently.
 
         // LeetCode already gives me:
-        // nums   -> sorted array
-        // target -> item to be searched.
+        // nums   -> sorted array.
+        // target -> item to be searched
 
         int low = 0;
         int high = nums.length - 1;
