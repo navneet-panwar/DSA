@@ -22,6 +22,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
+| [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +80,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
