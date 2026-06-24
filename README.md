@@ -18,6 +18,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
