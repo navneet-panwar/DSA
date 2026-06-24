@@ -3,7 +3,7 @@ class Solution {
 // a single digit is allowed in the output
 // means 0-9 values are allowed
 // so i must use adding the digits of a number logic 
-// but till num remains > 9, for single values 0-9 i have to return it simply
+// but till num remains > 9, for single values 0-9 i have to return it simply.
 
 
         while (num >= 10) {     // keep running until single digit remains or till num> 9 
