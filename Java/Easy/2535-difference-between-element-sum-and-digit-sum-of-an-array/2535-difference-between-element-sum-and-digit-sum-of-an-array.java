@@ -256,4 +256,3 @@ while loop inside
         return Math.abs(elementSum - digitSum);
     }
 }
-
