@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
