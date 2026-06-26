@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
