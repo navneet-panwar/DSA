@@ -25,6 +25,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
