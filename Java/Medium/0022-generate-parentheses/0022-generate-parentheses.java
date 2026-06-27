@@ -18,7 +18,7 @@ class Solution {
         }
 
         if( close < open ){
-            Parent(n, open, close+1, ans + ")",ll); // increase open by 1 if call is of open
+            Parent( n,open, close+1, ans + ")",ll); // increase open by 1 if call is of open
         }
         // also you could've changed the both calls if block place with each other ans would have come similar but in diff order
     }
