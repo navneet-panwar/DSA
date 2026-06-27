@@ -17,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0039-combination-sum/) | Medium |
+| [0189-rotate-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -63,6 +64,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -82,6 +84,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
