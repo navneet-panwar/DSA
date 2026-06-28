@@ -27,6 +27,7 @@
 | [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -72,6 +73,7 @@
 | [0189-rotate-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2652-sum-multiples/) | Easy |
