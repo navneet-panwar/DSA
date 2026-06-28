@@ -23,6 +23,7 @@
 | [0039-combination-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0039-combination-sum/) | Medium |
 | [0189-rotate-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
