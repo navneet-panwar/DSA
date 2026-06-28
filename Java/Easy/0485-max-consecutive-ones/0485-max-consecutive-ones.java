@@ -154,10 +154,123 @@ not the maximum streak
 // so after traversing the whole array,
 
 // maxCount contains the largest
-// consecutive sequence of 1's.
+// consecutive sequence of 1's. so return it 
 
         return maxCount;
     }
 }
+
+// --------------------------------------------------------------------------------------------
+
+
+/*
+
+class Solution {
+    public int findMaxConsecutiveOnes(int[] nums) {
+
+/*
+
+The logic remains exactly the same.
+
+count stores the CURRENT streak.
+
+maxCount stores the BEST streak seen so far.
+
+Earlier we updated maxCount like this:
+
+if(count > maxCount)
+{
+    maxCount = count;
+}
+
+Now a question arises.
+
+This comparison is very common.
+
+Does Java already provide a function
+which returns the larger of two numbers?
+
+Yes.
+
+Math.max(a, b)
+
+returns whichever value is greater.
+
+
+Example:
+
+Math.max(5, 2) = 5
+
+Math.max(3, 9) = 9
+
+Math.max(7, 7) = 7
+
+
+So instead of writing:
+
+if(count > maxCount)
+{
+    maxCount = count;
+}
+
+we can simply write:
+
+maxCount = Math.max(maxCount, count);
+
+
+Read it like this:
+
+"Compare maxCount and count.
+
+Whichever is larger,
+
+store it back into maxCount."
+
+
+
+        int count = 0;
+
+        int maxCount = 0;
+
+        for(int i = 0; i < nums.length; i++) {
+
+            if(nums[i] == 1) {
+
+                count++;    // current streak increased
+
+
+// compare current streak and best streak
+
+// keep whichever one is larger
+
+                maxCount = Math.max(maxCount, count);
+
+            }
+
+            else {
+
+                count = 0;   // sequence breaks
+            }
+        }
+
+
+// return the largest streak found
+
+        return maxCount;
+    }
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+
 
 
