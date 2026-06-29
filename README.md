@@ -28,6 +28,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/navneet-panwar/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1512-number-of-good-pairs/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1550-three-consecutive-odds/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1512-number-of-good-pairs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | [0258-add-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/0258-add-digits/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1512-number-of-good-pairs/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2652-sum-multiples/) | Easy |
@@ -102,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/2974-minimum-number-game/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/navneet-panwar/DSA/tree/main/Java/Easy/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
